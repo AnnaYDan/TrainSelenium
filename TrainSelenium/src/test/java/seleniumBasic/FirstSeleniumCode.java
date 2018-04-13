@@ -30,6 +30,7 @@ public class FirstSeleniumCode {
 			if(oneCheckBox.isSelected()) oneCheckBox.click();
 		}
 		
+		
 		checkBoxes.get(3).click();
 		
 	}
